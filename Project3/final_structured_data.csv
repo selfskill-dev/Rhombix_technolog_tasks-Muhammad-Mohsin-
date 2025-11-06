@@ -1,0 +1,6 @@
+sale_id,product_id,customer_id,quantity,sale_price,cost_price,product_name,category,customer_name,region,total_revenue,total_cost,profit,profit_margin
+1,101,1001,2,500,350,Laptop,Electronics,Ali,Lahore,1000,700,300,30.0
+2,102,1002,1,300,200,Mouse,Accessories,Sara,Karachi,300,200,100,33.33333333333333
+3,103,1003,3,450,300,Keyboard,Accessories,Ahmed,Islamabad,1350,900,450,33.33333333333333
+4,101,1001,2,500,350,Laptop,Electronics,Ali,Lahore,1000,700,300,30.0
+5,104,1004,5,700,500,Monitor,Electronics,Fatima,Lahore,3500,2500,1000,28.57142857142857
